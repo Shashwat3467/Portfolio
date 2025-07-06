@@ -48,7 +48,7 @@ const projects = [
     sourceCode: 'https://github.com/Shashwat3467/employee-management'
   },
   {
-    thumbnail: '/images/authentication.png',
+    thumbnail: '/images/auth.png',
     name: 'Authentication System',
     description: [
       'A secure user authentication system developed to handle login and signup functionality.It includes features like password hashing, form validation, and session management to ensure user data protection and access control.',
