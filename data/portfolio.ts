@@ -4,8 +4,8 @@ const about = {
   role: '',
   company: '',
   description: [
-  ` — a full-stack developer 💻 who enjoys crafting intuitive web 
-  experiences 🌐 and exploring problem-solving through DSA 🧠.
+  ` — a full-stack developer who enjoys crafting intuitive 
+  web experiences  and exploring problem-solving through DSA .
   `,
   ],
   resume: '/documents/CV.pdf',
