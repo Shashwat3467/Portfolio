@@ -68,7 +68,7 @@ const projects = [
       'TypeScript',
     ],
     sourceCode: 'https://github.com/Shashwat3467/Portfolio',
-    livePreview: '',
+    livePreview: 'https://myportfolio-xi-gilt.vercel.app/',
   }
 ]
 
