@@ -72,30 +72,6 @@ const About = () => {
                   <FaGithub className='about___social___ico' />
                 </a>
               )}
-
-              {/* {social.linkedin && (
-                <a
-                  href={social.linkedin}
-                  target='_blank'
-                  rel='noreferrer'
-                  aria-label='linkedin'
-                  className='link link--icon'
-                >
-                  <FaLinkedin className='about___social___ico' />
-                </a>
-              )} */}
-
-              {social.stackoverflow && (
-                <a
-                  href={social.stackoverflow}
-                  target='_blank'
-                  rel='noreferrer'
-                  aria-label='stackoverflow'
-                  className='link link--icon'
-                >
-                  <FaStackOverflow className='about___social___ico' />
-                </a>
-              )}
             </>
           )}
         </div>
